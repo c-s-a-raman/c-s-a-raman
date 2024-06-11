@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @c-s-a-raman
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning cloud computing.
 - 📫 How to reach me : raman200142@gmail.com 
 
 <!---
